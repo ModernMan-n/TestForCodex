@@ -1,0 +1,10 @@
+{
+  "courses": {
+    "Group A": {"capacity": 5, "attendees": []},
+    "Group B": {"capacity": 5, "attendees": []}
+  },
+  "events": {
+    "Monthly Party": {"capacity": 30, "attendees": []}
+  },
+  "users": []
+}
